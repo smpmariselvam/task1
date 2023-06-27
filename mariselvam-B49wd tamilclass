@@ -1,0 +1,51 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+ HTTP 1.1;
+answer;
+   * HTTP version 1.1
+   * version 1.1 of HTTP was relesed in 1997,only one year after the previous version 1.0
+   * HTTP 1.1 is an enhancement of HTTP 1.0 providing several extensions.
+   * among the most revelant enhancements, we can site the following 
+    host header
+   * HTTP 1.o does not officially require the host header
+   * this version is made things faster the computer to reuse the information
+
+
+  
+   
+   HTTP2;
+   anwser;
+    HTTP 2 enables full request and response multiplexing in practice ,
+    this means connection made to a web server from your browser  can be 
+    used to send  multiple requests and receive multiple responses.
+    this gets rid of a lot of the additional time  that it takes to establish 
+    a new connection for each request ( send and receive the more information at the same time )
+
+
+    
+    
+    Write a blog about objects and its internal representation in Javascript ;
+     anwser;
+          loosely speaking ,objects in javascript may be defined as an unordered collection of related 
+          data ,of primitive or refernce types, in the form of " key : value " pairs  these keys can be
+          variables or functions  and are called properties and methods , respectively ,in the context  of an object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
